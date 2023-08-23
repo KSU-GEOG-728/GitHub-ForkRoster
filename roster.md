@@ -18,7 +18,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | McClellan	| Jessie |
 | Mohamadzadeh | Neda |
 | Peiretti | Jose |
-| Pereyra Picabea | Valentina |
+| Pereyra Picabea | Valentina | Agronomy | Ignacio Ciampitti | 🏊
 | Santiago | Gustavo |
 | Singh | Rahul |
 | van Versendaal Pirez | Emmanuela |
