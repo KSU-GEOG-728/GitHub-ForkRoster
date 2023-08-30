@@ -18,7 +18,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | McClellan	| Jessie | Geography | Shawn Hutchinson | 🏀 |
 | Mohamadzadeh | Neda |Geography | Marcellus Caldas | 🎳 |
 | Peiretti | Jose | Agricultural Engineering | Ajay Sharda | Gravel Cycling |
-| Pereyra Picabea | Valentina |
+| Pereyra Picabea | Valentina | Agronomy | Ignacio Ciampitti | 🏊 |
 | Santiago | Gustavo | Biosystems Engineering | Ignacio Ciampitti | 🚴‍♂️ |
 | Singh | Rahul | Agricultural Engineering | Dr. Ajay Sharda | Soccer |
 | van Versendaal Pirez | Emmanuela | Agronomy | Ignacio Ciampitti | Soccer |
