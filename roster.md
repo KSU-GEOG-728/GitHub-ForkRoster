@@ -11,7 +11,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Pegg | Michael |
 | Romerosoler | Jorge |
 | Smith | Tyler |
-| Unruh | Miller | GIS&T | Dr. Hutchinson | soccer |
+| Unruh | Miller | GIS&T | Dr. Hutchinson | :soccer: |
 | Unruh | Ross |
 | Verrill | Nathan |
 | White | Walter | 
