@@ -12,7 +12,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Romerosoler | Jorge |
 | Smith | Tyler |
 | Unruh | Miller |
-| Unruh | Ross | Agronomy | Dr. Raj Khosla | 🥏 |
+| Unruh | Ross | Agronomy | Dr. Raj Khosla | Frisbee |
 | Verrill | Nathan |
 | White | Walter | 
 | Widanagamage | Nishadini |
