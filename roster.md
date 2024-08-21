@@ -16,3 +16,4 @@ Enter the information requested below using the Markdown formatting language.  K
 | Verrill | Nathan |
 | White | Walter | 
 | Widanagamage | Nishadini |
+| Igwe | Kelechi | Biological and Agricultural Engineering | Dr. Vaishali Sharda | Soccer.
