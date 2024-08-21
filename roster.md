@@ -7,7 +7,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Cox | Logan |
 | Grijalva | Ivan |
 | Hossain | Shahadat |
-| Okonye | Ifeoma | MSc. Geography and Geospatial Science | Shawn Hutchinson | Volleyball 🏐 |
+| Okonye | Ifeoma | MSc. Geography and Geospatial Science | Shawn Hutchinson | Volleyball🏐 and Swimming |
 | Pegg | Michael |
 | Romerosoler | Jorge |
 | Smith | Tyler |
