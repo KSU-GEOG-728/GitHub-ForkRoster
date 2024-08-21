@@ -4,22 +4,14 @@ Enter the information requested below using the Markdown formatting language.  K
 
 | Last Name                    | First Name                   | Major                        | Advisor                      | Favorite Sport               |
 | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- |
-| Carney | Luke | Wildlife Biology | Lydia Zeglin | :volleyball: |
-| Chakravarty| Moupyali | Geography | Abigail Langston | Cricket |
-| Da Rocha Hintz| Gabriel | Agronomy | Ignacio Ciampitti | 🏐 |
-| Dua | Aashvi | Agricultural Engineering | Ajay Sharda | Soccer |
-| Garcia Helguera | Paula |
-| Giordano | Nicolas | Agronomy | Romulo P Lollato | Kitesurf |
-| Hutchinson | Mitchell | Computer Science | Sheryl Cornel | Soccer |
-| Hutchinson | Shawn | Geography | John Harrington | 🏒 |
-| Jha | Aditya | PhD in Biological and Agricultural Engineering| Aleksey Sheshukov | Cricket/Football |
-| Jilek	| Petr | Electrical Engineering | Garrett Peterson | Judo |
-| Kubacka	| Isaac | Geology | Colleen Gura | Football |
-| McClellan	| Jessie | Geography | Shawn Hutchinson | 🏀 |
-| Mohamadzadeh | Neda |Geography | Marcellus Caldas | 🎳 |
-| Peiretti | Jose | Agricultural Engineering | Ajay Sharda | Gravel Cycling |
-| Pereyra Picabea | Valentina | Agronomy | Ignacio Ciampitti | 🏊 |
-| Santiago | Gustavo | Biosystems Engineering | Ignacio Ciampitti | 🚴‍♂️ |
-| Singh | Rahul | Agricultural Engineering | Ajay Sharda | Soccer |
-| van Versendaal Pirez | Emmanuela | Agronomy | Ignacio Ciampitti | Soccer |
+| Cox | Logan |
+| Grijalva | Ivan |
+| Hossain | Shahadat |
+| Pegg | Michael |
+| Romerosoler | Jorge |
+| Smith | Tyler |
+| Unruh | Miller |
+| Unruh | Ross |
+| Verrill | Nathan |
 | White | Walter | 
+| Widanagamage | Nishadini |
