@@ -8,7 +8,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Grijalva | Ivan |
 | Hossain | Shahadat |
 | Okonye | Ifeoma |
-| Pegg | Michael | Geography | Dr. Hutchinson | Baseball |
+| Pegg | Michael | Geography | Dr. Hutchinson | :baseball: |
 | Romerosoler | Jorge |
 | Smith | Tyler |
 | Unruh | Miller |
