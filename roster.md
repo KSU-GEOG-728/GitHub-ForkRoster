@@ -16,3 +16,4 @@ Enter the information requested below using the Markdown formatting language.  K
 | Verrill | Nathan |
 | White | Walter | 
 | Widanagamage | Nishadini |
+| Okonye | Ifeoma | MSc. Geography and Geospatial Science | Shawn Hutchinson | Volleyball :Volleyball:
