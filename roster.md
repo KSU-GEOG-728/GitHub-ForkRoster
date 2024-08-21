@@ -15,4 +15,4 @@ Enter the information requested below using the Markdown formatting language.  K
 | Unruh | Ross | Agronomy | Dr. Raj Khosla | 🥏 |
 | Verrill | Nathan |
 | White | Walter | 
-| Widanagamage | Nishadini |
+| Widanagamage | Nishadini | Agronomy | Dr. Gaurav Jha | Swimming
