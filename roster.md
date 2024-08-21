@@ -16,3 +16,4 @@ Enter the information requested below using the Markdown formatting language.  K
 | Verrill | Nathan |
 | White | Walter | 
 | Widanagamage | Nishadini |
+| Joshi | Raghav | Agronomy | Dr. Raj Khosla | Soccer ⚽|
