@@ -13,6 +13,6 @@ Enter the information requested below using the Markdown formatting language.  K
 | Smith | Tyler |
 | Unruh | Miller |
 | Unruh | Ross |
-| Verrill | Nathan |
+| Verrill | Nathan | Geography | Shawn Hutchinson | Football |
 | White | Walter | 
 | Widanagamage | Nishadini |
