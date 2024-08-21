@@ -9,7 +9,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Hossain | Shahadat |
 | Okonye | Ifeoma |
 | Pegg | Michael |
-| Romero | Jorge | Agronomist | Romulo Lollato | ::soccer |
+| Romero | Jorge | Agronomist | Romulo Lollato | ⚽ |
 | Smith | Tyler |
 | Unruh | Miller |
 | Unruh | Ross |
