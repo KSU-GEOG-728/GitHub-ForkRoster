@@ -14,5 +14,5 @@ Enter the information requested below using the Markdown formatting language.  K
 | Unruh | Miller |
 | Unruh | Ross |
 | Verrill | Nathan |
-| White | Walter | Chemistry | Shawn Hutchinson | Water Polo |
+| White | Walter | Chemistry | Shawn Hutchinson | :football: |
 | Widanagamage | Nishadini |
