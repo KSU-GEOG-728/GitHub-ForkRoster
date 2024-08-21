@@ -10,7 +10,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Okonye | Ifeoma |
 | Pegg | Michael |
 | Romerosoler | Jorge |
-| Smith | Tyler | BAE | Dr. Aleksey Sheshukov | Hockey
+| Smith | Tyler | BAE | Dr. Aleksey Sheshukov | Hockey |
 | Unruh | Miller |
 | Unruh | Ross |
 | Verrill | Nathan |
