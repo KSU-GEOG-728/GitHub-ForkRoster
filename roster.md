@@ -22,4 +22,4 @@ Enter the information requested below using the Markdown formatting language.  K
 | Santiago | Gustavo | Biosystems Engineering | Ignacio Ciampitti | 🚴‍♂️ |
 | Singh | Rahul | Agricultural Engineering | Ajay Sharda | Soccer |
 | van Versendaal Pirez | Emmanuela | Agronomy | Ignacio Ciampitti | Soccer |
-| White | Walter | Chemistry | Shawn Hutchinson | Football |
+| White | Walter | 
