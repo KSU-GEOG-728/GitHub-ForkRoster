@@ -14,5 +14,5 @@ Enter the information requested below using the Markdown formatting language.  K
 | Unruh | Miller |
 | Unruh | Ross | Agronomy | Dr. Raj Khosla | 🥏 |
 | Verrill | Nathan |
-| White | Walter | 
+| White | Walter | Chemistry | Shawn Hutchinson | :football: |
 | Widanagamage | Nishadini |
