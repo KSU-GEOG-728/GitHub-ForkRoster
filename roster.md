@@ -6,7 +6,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- |
 | Edrish | Maria Binte |
 | Hansen | Sara |
-| Hutchinson | Shawn |
+| White | Walter | Chemistry | Werner Heisenberg | :ice hockey:
 | Sporleder | Joaquin |
 | Tahmasebikalesar | Maryam |
 | Woodruff | Ian |
