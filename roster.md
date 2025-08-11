@@ -4,15 +4,9 @@ Enter the information requested below using the Markdown formatting language.  K
 
 | Last Name                    | First Name                   | Major                        | Advisor                      | Favorite Sport               |
 | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- |
-| Cox | Logan |
-| Grijalva | Ivan |
-| Hossain | Shahadat |
-| Okonye | Ifeoma |
-| Pegg | Michael |
-| Romerosoler | Jorge |
-| Smith | Tyler |
-| Unruh | Miller |
-| Unruh | Ross | Agronomy | Dr. Raj Khosla | 🥏 |
-| Verrill | Nathan |
-| White | Walter | 
-| Widanagamage | Nishadini |
+| Edrish | Maria Binte |
+| Hansen | Sara |
+| Hutchinson | Shawn |
+| Sporleder | Joaquin |
+| Tahmasebikalesar | Maryam |
+| Woodruff | Ian |
