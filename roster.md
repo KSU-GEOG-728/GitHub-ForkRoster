@@ -6,7 +6,12 @@ Enter the information requested below using the Markdown formatting language.  K
 | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- |
 | Edrish | Maria Binte |
 | Hansen | Sara |
-| White | Walter |
+| Mazumder | Fouzia Abedin |
+| Oishee | Tahsin Ishrak |
+| Okonye | Ify |
 | Sporleder | Joaquin |
 | Tahmasebikalesar | Maryam |
+| Turjo | Musabbir |
+| White | Walter |
 | Woodruff | Ian |
+| Worden | Samuel |
