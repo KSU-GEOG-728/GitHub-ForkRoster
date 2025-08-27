@@ -6,7 +6,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- |
 | Edrish | Maria Binte |
 | Hansen | Sara |
-| Mazumder | Fouzia Abedin |
+| Mazumder | Fouzia Abedin | Geography | Dr.Audrey Joslin |⚽|
 | Oishee | Tahsin Ishrak |
 | Okonye | Ify |
 | Sporleder | Joaquin |
