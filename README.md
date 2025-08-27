@@ -51,7 +51,7 @@ After editing <code>roster.md</code>, you should see a snippet of the file in **
 
 **Step #8 - Push Changes to Origin Repository on GitHub**
 
-After you have made all of the changes you want, you now have to sync these changes - which currently apply only to the local version of the repository - to your riginal forked repo on **GitHub**. Once you have committed changes to master, you will have the option to push the commits to the origin remote.  Click the blue *Push Origin* button.
+After you have made all of the changes you want, you now have to sync these changes - which currently apply only to the local version of the repository - to your original forked repo on **GitHub**. Once you have committed changes to master, you will have the option to push the commits to the origin remote.  Click the blue *Push Origin* button.
 
 **Step #9 - Verify Changes in GitHub**
 
