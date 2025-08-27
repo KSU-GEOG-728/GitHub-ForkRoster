@@ -7,7 +7,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Edrish | Maria Binte |
 | Hansen | Sara |
 | Mazumder | Fouzia Abedin |
-| Oishee | Tahsin Ishrak |
+| Oishee | Tahsin Ishrak |Biological and Agricultural Engineering | Dr. Aleksey Sheshukov |:soccer: |
 | Okonye | Ify |
 | Sporleder | Joaquin |
 | Tahmasebikalesar | Maryam |
