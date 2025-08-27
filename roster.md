@@ -5,7 +5,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Last Name                    | First Name                   | Major                        | Advisor                      | Favorite Sport               |
 | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- |
 | Edrish | Maria Binte |
-| Hansen | Sara |
+| Hansen | Sara | Biology | Dave Haukos  |  :ice_skate: |
 | Mazumder | Fouzia Abedin |
 | Oishee | Tahsin Ishrak |
 | Okonye | Ify |
