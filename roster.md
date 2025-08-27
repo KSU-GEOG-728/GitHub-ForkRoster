@@ -13,5 +13,5 @@ Enter the information requested below using the Markdown formatting language.  K
 | Tahmasebikalesar | Maryam |
 | Turjo | Musabbir |
 | White | Walter | Chemistry | Dr. Heisenberg | :soccer: |
-| Woodruff | Ian |
+| Woodruff | Ian | Geography | Dr. Hutchinson | :racing_car: |
 | Worden | Samuel |
