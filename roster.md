@@ -14,4 +14,4 @@ Enter the information requested below using the Markdown formatting language.  K
 | Turjo | Musabbir |
 | White | Walter | Chemistry | Dr. Heisenberg | :soccer: |
 | Woodruff | Ian |
-| Worden | Samuel |
+| Worden | Samuel | Geology | Dr. LaCroix | :swimmer: |
