@@ -12,6 +12,6 @@ Enter the information requested below using the Markdown formatting language.  K
 | Sporleder | Joaquin |
 | Tahmasebikalesar | Maryam |
 | Turjo | Musabbir |
-| White | Walter |
+| White | Walter | Chemistry | Dr. Heisenberg | 🏒 |
 | Woodruff | Ian |
 | Worden | Samuel |
