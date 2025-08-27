@@ -9,7 +9,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Mazumder | Fouzia Abedin |
 | Oishee | Tahsin Ishrak |
 | Okonye | Ify |
-| Sporleder | Joaquin |
+| Sporleder | Joaquin | Geography| Dr. Martin| :football: :baseball:|
 | Tahmasebikalesar | Maryam |
 | Turjo | Musabbir |
 | White | Walter | Chemistry | Dr. Heisenberg | :soccer: |
