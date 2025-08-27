@@ -11,7 +11,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Okonye | Ify |
 | Sporleder | Joaquin |
 | Tahmasebikalesar | Maryam |
-| Turjo | Musabbir |
+| Turjo | Musabbir | Civil Engineering | Dr. Jeeban Panthi | :badminton: |
 | White | Walter | Chemistry | Dr. Heisenberg | :soccer: |
 | Woodruff | Ian |
 | Worden | Samuel |
